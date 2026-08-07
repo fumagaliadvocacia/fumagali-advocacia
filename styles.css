@@ -141,3 +141,16 @@ html{scroll-padding-top:140px}
   body{padding-top:126px}
   html{scroll-padding-top:138px}
 }
+
+
+/* CORREÇÃO FAIXA SUPERIOR — 07-08-2026 */
+.service-bar{
+  background:#090909!important;
+  color:#d7d7d7!important;
+  border-bottom:1px solid #262626!important;
+}
+.service-bar .service-bar-inner,
+.service-bar .service-bar-inner span{
+  background:transparent!important;
+  color:#d7d7d7!important;
+}
